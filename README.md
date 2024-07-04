@@ -22,8 +22,8 @@ Welcome to the NFT Marketplace repository! This platform enables users to buy, s
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/nft-marketplace.git
-   cd nft-marketplace
+   git clone https://github.com/your-username/NFT_Market.git
+   cd nft-market
    ```
 
 2. **Install dependencies for the frontend**
